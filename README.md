@@ -1,6 +1,6 @@
 Quantum-Computing-Playground
 ============================
-
+Trial - Under dev
 Source code of quantumplayground.net.
 
 To deploy your own copy of Quantum Computing Playground:
